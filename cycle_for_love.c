@@ -25,7 +25,7 @@ int main()
         }
         else{
           jack[j] = distanceToDrive;
-            j++;
+            j++; //
             toggle++;  
         }
 		remainingDistance = remainingDistance - distanceToDrive;
